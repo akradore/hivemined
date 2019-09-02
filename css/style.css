@@ -39,7 +39,7 @@
     position: relative;
     height: 200px;
     border-radius: 41px;
-    box-shadow: 2px 3px 13px #c6e1ff;
+    box-shadow: 2px 3px 13px #16576636;
     margin-top: -100px;
 }
 .form-bg p{
@@ -194,7 +194,7 @@
   .iconbox.iconbox-style1.iconbox-type2 .iconbox-icon {
     height: 75px;
     width: 75px;
-    background-color: rgba(0, 122, 255, 0.1);
+    background-color:#144f5d14;
     border-radius: 10px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -215,7 +215,7 @@
   }
   
   .iconbox.iconbox-style1.iconbox-type2:hover .iconbox-icon {
-    background-color: #007aff;
+    background-color: #144f5d;
   }
   
   .iconbox.iconbox-style1.iconbox-type2:hover .iconbox-title {
@@ -253,15 +253,15 @@
   
   .iconbox.iconbox-style1.iconbox-type2:before,
   .iconbox.iconbox-style1.iconbox-type2:after {
-    background: #007aff;
+    background: #144f5dc2;
   }
   .jumbotron{
-    background: #007aff;
+    background: #144f5d;
     padding: 44px;
     margin: 43px 0px 0px 0px;
   }
   .jumbotron a{
-    background: #0457b1;
+    background: #24778b;
     font-size: 18px;
     font-weight: 500;
     padding: 11px 33px;
@@ -269,17 +269,17 @@
   }
   .jumbotron a:hover{
     color: #ffffff;
-    background: #0a68d0;
-    border: 1px solid #065ebf;
+    background: #0e424e;
+    border: 1px solid #1e6576;
   }
   .subscribe-btn {
-    background-color: #0457b1;
+    background-color: #125b6d;
     color: #fff;
     
 }
 .subscribe-btn:hover {
   color: #ffffff;
-  background: #0a68d0;
-  border: 1px solid #065ebf;
+  background: #2a788b;
+  border: 1px solid #3e8798;
 }
   
